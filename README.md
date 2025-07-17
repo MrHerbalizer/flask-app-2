@@ -12,6 +12,8 @@ Above uri is an example of mongodb atlas uri, as i have used the same for my pro
 Use the following commands:-
 
 docker compose up
+
 docker compose down
+
 docker compose build
 
